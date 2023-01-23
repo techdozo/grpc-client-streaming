@@ -1,5 +1,4 @@
 syntax = "proto3";
-import "google/protobuf/empty.proto";
 package ride_sharing.trip;
 
 option java_package = "dev.techdozo.ride_sharing.trip";
